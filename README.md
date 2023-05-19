@@ -1,16 +1,25 @@
-# uts_romdon
+# UTS MOBILE FLUTTER (Login & Register)
 
-A new Flutter project.
+**_Nama: Muhammad Romdhon_** <br/>
+**_Nim : 312010434_** <br/>
+**_Kelas : TI.20.A3_** <br/>
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Login
+- Register
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<br>
+
+### UI Design Figma
+
+<div align="center">
+  <img src="./assets/ss/login.png" alt="login" >
+  <img src="./assets/ss/register.png" alt="regist" >
+</div>
